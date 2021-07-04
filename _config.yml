@@ -17,6 +17,7 @@ plugins:
   - jekyll-mentions
 
 exclude:
+  - vendor
   - Makefile
   - CNAME
   - LICENSE

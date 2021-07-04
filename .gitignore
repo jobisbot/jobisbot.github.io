@@ -18,6 +18,8 @@ Gemfile.lock
 node_modules
 package-lock.json
 
+# CNAME
+CNAME
 
 # _sass
 _sass/@primer/css/**/*.md
