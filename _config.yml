@@ -11,6 +11,14 @@ theme: null
 readme_index:
   with_frontmatter: true
 
+highlighter: rouge
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+google:
+  adsense: ca-pub-5154203822857075
+
 plugins:
   - jemoji
   - jekyll-avatar

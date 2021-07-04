@@ -13,6 +13,8 @@ Gemfile.lock
 # python
 *.whl
 
+# Working Dir
+_work
 
 # npm
 node_modules
@@ -20,6 +22,9 @@ package-lock.json
 
 # CNAME
 CNAME
+
+# test
+test*
 
 # _sass
 _sass/@primer/css/**/*.md
